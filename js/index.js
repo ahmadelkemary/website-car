@@ -128,5 +128,4 @@ sr.reveal('.about__data, .offer__img', { delay: 900, setInterval: 100, origin: '
 sr.reveal('.features__map', { delay: 600, setInterval: 100, origin: 'bottom'})
 sr.reveal('.features__card', { setInterval: 300})
 sr.reveal('.featured__card, .logos__content', { setInterval: 100})
-sr.reveal('.footrt__content', { setInterval: 100})
 
